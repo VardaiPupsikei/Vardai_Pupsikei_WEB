@@ -129,6 +129,6 @@ function gentxt() {
 							'Zrazė'
 							];
 
-				var para=document.querySelector('p');
+				var para=document.querySelector('p2');
 				para.innerHTML=word[Math.floor(Math.random()*word.length)];
 			}
