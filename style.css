@@ -1,0 +1,47 @@
+			
+			.atsakymas{
+
+				font-family: sans-serif;
+				font-size: 70px;
+				text-transform: uppercase;
+			}
+
+			.mygtukas{
+
+				background-color: #615A46; /*  */
+  				border: 2px solid #615A46;
+ 				color: #E6D4A5;
+  				padding: 30px 64px;
+  				text-align: center;
+  				text-decoration: none;
+  				display: inline-block;
+  				font-size: 24px;
+  				border-radius: 5px;
+
+  				transition-duration: 0.2s;
+
+			}
+
+			.mygtukas:hover{
+
+				background-color: #E6D4A5; /*  */
+  				border: 2px solid #615A46;
+ 				color: #615A46;
+  				padding: 30px 64px;
+  				text-align: center;
+  				text-decoration: none;
+  				display: inline-block;
+  				font-size: 24px;
+  				border-radius: 5px;
+
+  				transition-duration: 0.2s;
+			}
+
+
+
+			.headeris{
+				
+				font-family: sans-serif;
+				font-size: 55px;
+				text-transform: uppercase;
+			}
