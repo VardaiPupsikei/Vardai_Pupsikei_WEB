@@ -128,7 +128,8 @@ function gentxt() {
 							'Žirnė',
 							'Zrazė',
 							'Smilga',
-							'Chalva'
+							'Chalva',
+							'Chia (Čija)'
 							];
 
 				var para=document.querySelector('p');
