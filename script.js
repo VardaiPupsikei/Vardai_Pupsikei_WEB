@@ -129,7 +129,8 @@ function gentxt() {
 							'Zrazė',
 							'Smilga',
 							'Chalva',
-							'Chia (Čija)'
+							'Chia (Čija)',
+							'Gilė'
 							];
 
 				var para=document.querySelector('p');
