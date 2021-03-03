@@ -127,7 +127,7 @@ function gentxt() {
 							'Želė',
 							'Žirnė',
 							'Zrazė',
-							'Smilga'
+							'Smilga',
 							'Chalva'
 							];
 
