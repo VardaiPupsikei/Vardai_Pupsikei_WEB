@@ -131,6 +131,6 @@ function gentxt() {
 							'Chalva'
 							];
 
-				var para=document.querySelector('p2');
+				var para=document.querySelector('p');
 				para.innerHTML=word[Math.floor(Math.random()*word.length)];
 			}
