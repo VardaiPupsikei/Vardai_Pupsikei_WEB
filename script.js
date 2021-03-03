@@ -126,7 +126,9 @@ function gentxt() {
 							'Zefyrė',
 							'Želė',
 							'Žirnė',
-							'Zrazė'
+							'Zrazė',
+							'Smilga'
+							'Chalva'
 							];
 
 				var para=document.querySelector('p2');
